@@ -1,11 +1,8 @@
 ---
 permalink: /
-title: "Lizhi Liao's home page"
+title: "In God we trust. All others must bring data. -- W. Edwards Deming"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hi, I am Dayi, a passionate data science and software engineering researcher !
