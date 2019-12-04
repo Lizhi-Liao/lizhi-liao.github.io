@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 ---
 
-Hi, I am Dayi, a passionate data science and software engineering researcher !
+Hi, I am xxx, a passionate data science and software engineering researcher !
 
 I received my Ph.D. degree in Computer Science from [Queen’s University](http://cs.queensu.ca/), Canada. My research interests include Data Mining, Empirical Software Engineering, and Mining Software Repositories (MSR, which applies Data Mining and Machine Learning techniques to solve Software Engineering problems). My Ph.D. thesis is about mining online game stores data, more specifically, mining data from Steam, the dominant online distribution platform for PC games, to improve user-perceived quality of games.
 
