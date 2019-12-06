@@ -1,22 +1,24 @@
 ---
 permalink: /about/
+title: ""
 excerpt: "About me"
 author_profile: true
 ---
 
-My general research area is Software Engineering. In particular, my research interest includes software engineering for ultra-large-scale systems, software log mining, empirical software engineering, mining software repositories and performance engineering.
-
 Education
 ------
 
-My general research area is Software Engineering. In particular, my research interest includes software engineering for ultra-large-scale systems, software log mining, empirical software engineering, mining software repositories and performance engineering.
+#### 2019 SEPTEMBER - Present:
 
-In particular, my research aims to solve challenges such as:
+Ph.D student in Concordia University, Montreal, QC, Canada, under supervision of [Dr. Weiyi Shang](https://users.encs.concordia.ca/~shang/).
 
-- Can we quickly help developers debug production systems by utilizing rich software data?
-- Can we provide suggestions on how to optimize the software system by analyzing user usage data?
-- How to improve software quality assurances in DevOps environments by analyzing test results from continuous integration?
-- Can we provide useful suggestions to developers by mining software development history?
+#### 2017 SEPTEMBER - 2019 August:
+
+MEng student in Concordia University, Montreal, QC, Canada, GPA 3.8.
+
+#### 2013 SEPTEMBER - 2017 JUNE:
+
+B.Eng student in Chongqing University of Posts and Telecommunications, Chongqing, China.
 
 ## Skills
 

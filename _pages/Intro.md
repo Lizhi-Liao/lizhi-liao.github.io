@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "In God we trust. All others must bring data. - W. Edwards Deming"
+title: ""
 excerpt: "About me"
 author_profile: true
 ---
+
+##<center> "In God we trust. All others must bring data." </center></br><center>-- W. Edwards Deming</center>
 
 Hi, I am Lizhi  Liao, a Ph.D student in Software Engineering at [Concordia University](https://www.concordia.ca/). I am also a  passionate data science and software engineering researcher! I am currently under the supervision of [Dr. Weiyi Shang](https://users.encs.concordia.ca/~shang/) and work with the collegues in the Software Engineering and System Engineering Lab (SENSE). I received my Master's degree in Software Engineering from [Concordia University](https://www.concordia.ca/), Montreal, Canada.  
 
