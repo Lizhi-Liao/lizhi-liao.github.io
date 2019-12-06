@@ -17,7 +17,6 @@ My research aims to solve challenges such as:
 
 - How to help developes debug and verify software systems more easily by utilizing rich software history data?
 - Can we detect performance regressions in ultra-large-scale systems?
-
 - Can we provide developers with suggestions on the root causes of the performance regressions?
 
 
