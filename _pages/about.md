@@ -18,3 +18,10 @@ In particular, my research aims to solve challenges such as:
 - Can we provide suggestions on how to optimize the software system by analyzing user usage data?
 - How to improve software quality assurances in DevOps environments by analyzing test results from continuous integration?
 - Can we provide useful suggestions to developers by mining software development history?
+
+## Skills
+
+Programming Language: Java(8), JavaScript(ES6, TypeScript), Python, HTML, CSS, SQL, C
+Frameworks: Spring Boot, Spring Cloud, Spring Data JPA, MyBatis
+Vue.js, Element UI, React, Ant Design, jQuery, Bootstrap
+Tools: Git, Maven, Docker, Redis, MySQL, Elasticsearch, Jira, Confluence 
