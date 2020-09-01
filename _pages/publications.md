@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2020
 
-{% include base_path %}
+Lizhi Liao, Jinfu Chen, Heng Li, Yi Zeng, **Weiyi Shang**, Jianmei Guo, Catalin Sporea, Andrei Toma and Sarah Sajedi. Using Black-Box Performance Models to Detect Performance Regressions under Varying Workloads: An Empirical Study. Empirical Software Engineering. [LINK](https://link.springer.com/article/10.1007/s10664-020-09866-z) [PDF]()
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
