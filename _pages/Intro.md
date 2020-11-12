@@ -9,7 +9,7 @@ author_profile: true
 >
 > \- W. Edwards Deming
 
-Hi, I am Lizhi  Liao, a Ph.D student in Software Engineering at [Concordia University](https://www.concordia.ca/). I am also a  passionate data science and software engineering researcher! I am currently under the supervision of [Dr. Weiyi Shang](https://users.encs.concordia.ca/~shang/) and work with the collegues in the Software Engineering and System Engineering Lab (SENSE). I received my Master's degree in Software Engineering from [Concordia University](https://www.concordia.ca/), Montreal, Canada.  
+Hi, I am Lizhi  Liao, a Ph.D student at [Department of CSSE](https://www.concordia.ca/ginacody/computer-science-software-eng.html), [Concordia University](https://www.concordia.ca/). I am also a  passionate data science and software engineering researcher! I am currently under the supervision of [Dr. Weiyi Shang](https://users.encs.concordia.ca/~shang/) and work with the collegues in the Software Engineering and System Engineering Lab (SENSE). I received my Master's degree in Software Engineering from [Concordia University](https://www.concordia.ca/), Montreal, Canada.  
 
 I received my education across China and Canada, and have worked in different industries ranging from enterprise business solutions, to environmental management solutions. Before pursing my Ph.D's degree, I had been working as a software developer, writing programs for Java web applications. These experiences give me the ability to adapt to a multicultural environment and get along well with people from different backgrounds. Moreover, my research tools were integrated into industrial practices and running on a daily basis to ensure the quality of large-scale systems.
 

@@ -42,7 +42,7 @@ B.Eng. student at Chongqing University of Posts and Telecommunications, Chongqin
 
 ## Experiences
 
-+ May 2019 - present: Research collaborator at ERA Environmental Management Solutions
++ May 2019 - Present: Research collaborator at ERA Environmental Management Solutions
 
 + Jan. 2019 - May 2019: Software developer intern at Nakisa
 
