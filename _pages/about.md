@@ -20,20 +20,20 @@ M.Eng. student in Concordia University, Montreal, QC, Canada, GPA 3.8.
 
 B.Eng. student in Chongqing University of Posts and Telecommunications, Chongqing, China.
 
-{%
+<!--
 ## Skills
 
 - Programming Language: Java(8), JavaScript(ES6, TypeScript), Python, HTML, CSS, SQL, C
 - Frameworks: Spring Boot, Spring Cloud, Spring Data JPA, MyBatis, Vue.js, Element UI, React, Ant Design, jQuery, Bootstrap
 - Tools: Git, Maven, Docker, Redis, MySQL, Elasticsearch, Jira, Confluence
-%}
+-->
 
 ## Academic Services
 
-{%
+<!--
 Awards
 
 Experiences
 
 Hobbies
-%}
+-->
