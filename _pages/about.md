@@ -21,7 +21,7 @@ M.Eng. student at Concordia University, Montreal, QC, Canada, GPA 3.8.
 B.Eng. student at Chongqing University of Posts and Telecommunications, Chongqing, China, Outstanding Graduate in CQUPT. 
 
 <!--
-## Summary
+## Summary (legacy from linkedin)
 Master student in Software Engineering at Concordia University.
 Two years of experience in Java software development and Web application development.
 
