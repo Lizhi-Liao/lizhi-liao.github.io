@@ -21,8 +21,11 @@ M.Eng. student at Concordia University, Montreal, QC, Canada, GPA 3.8.
 B.Eng. student at Chongqing University of Posts and Telecommunications, Chongqing, China, Outstanding Graduate in CQUPT. 
 
 <!--
+## Summary
+Master student in Software Engineering at Concordia University.
+Two years of experience in Java software development and Web application development.
 
-## Skills
+I am a passionate self-learner and able to quickly accept new knowledge and adapt to the new environment. I have passion in fields of software engineering and exploring new things.
 
 - Programming Language: Java(8), JavaScript(ES6, TypeScript), Python, HTML, CSS, SQL, C
 - Frameworks: Spring Boot, Spring Cloud, Spring Data JPA, MyBatis, Vue.js, Element UI, React, Ant Design, jQuery, Bootstrap
